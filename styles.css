@@ -1247,6 +1247,8 @@
 	font-size: 0.7em;
 }
 
-.page p {text-align: justify !important}
-
-
+.page p {
+	text-align: justify !important;
+	text-justify: inter-word !important; /* Melhora a distribuição de espaços */
+	hyphens: auto !important;
+}
