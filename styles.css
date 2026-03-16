@@ -1246,3 +1246,7 @@
 	-webkit-column-width: 54mm;
 	font-size: 0.7em;
 }
+
+.page p {text-align: justify !important}
+
+
